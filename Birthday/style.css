@@ -276,7 +276,7 @@ span {
 
 .avatar__title {
     cursor: pointer;
-    margin-top: -100px;
+    margin-top: -160px;
     -webkit-animation: balloon1 4s ease-in-out infinite;
     -moz-animation: balloon1 4s ease-in-out infinite;
     -o-animation: balloon1 4s ease-in-out infinite;
